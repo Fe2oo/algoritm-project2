@@ -5,6 +5,7 @@ the sources I used
 https://www.programiz.com/cpp-programming/online-compiler/
 https://stackoverflow.com/
 chat GPT
+Note: include.docx has the code 
 the code :
 #include <iostream>
 #include <cstdlib>
