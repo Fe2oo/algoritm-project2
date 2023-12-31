@@ -1,0 +1,7 @@
+the video:
+https://www.youtube.com/watch?v=35pbs0gytwg&t=22s
+
+the sources I used 
+https://www.programiz.com/cpp-programming/online-compiler/
+https://stackoverflow.com/
+chat GPT
